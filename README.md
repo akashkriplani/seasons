@@ -1,6 +1,7 @@
 # Getting Started with Seasons React Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a simple application which determines the season based on the geolocation of the user and shows a set of images when it is winter and when it is summer.
 
 ## Available Scripts
 
